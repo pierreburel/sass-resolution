@@ -1,0 +1,11 @@
+{
+  "name": "sass-resolution",
+  "description": "Sass mixin to target high density screens.",
+  "tags": [
+    "sass",
+    "resolution",
+    "retina",
+    "responsive"
+  ],
+  "website": "https://github.com/pierreburel/sass-resolution"
+}
